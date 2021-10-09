@@ -7,8 +7,8 @@
     <title>Laravel</title>
 </head>
 <body>
-    [[
-sadffefwesdfasdsdf
+    [[sdf
+sadffefwesdfasdsdfsdf
     ]]sdf
 </body>asd
 </html>
